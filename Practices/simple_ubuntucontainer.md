@@ -1,4 +1,4 @@
-# How to create a simple Docker image/container for Ubuntu
+# How to create  Docker image/container for Ubuntu
 ***
 
 ## How to create an image
