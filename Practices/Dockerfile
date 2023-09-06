@@ -1,5 +1,5 @@
 
-# Building a Docker Image with the Latest Ubuntu Version and Basic Python Install
+# Latest Ubuntu Version and Basic Python Install docker file
 
 # latest Ubuntu version
 FROM ubuntu:latest  
